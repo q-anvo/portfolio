@@ -1,17 +1,20 @@
 {
-  "name": "",
+  "name": "qu-anvo/portfolio",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro check && astro build",
+    "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.16.13",
     "@astrojs/check": "^0.9.4",
-    "typescript": "^5.6.3"
+    "astro": "^4.16.14"
+  },
+  "devDependencies": {
+    "prettier-plugin-astro": "^0.7.2",
+    "typescript": "^5.7.2"
   }
 }
