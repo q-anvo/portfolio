@@ -1,8 +1,8 @@
 ---
-title: Medria
+title: Solution pour les agriculteurs
 publishDate: 2023-12-01 00:00:00
 img: /assets/medria.webp
-img_alt: Medria
+img_alt: Solution pour les agriculteurs
 description: |
   Le projet majeur auquel j'ai contribué en tant qu'ingénieur DATA
 tags:

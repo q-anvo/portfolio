@@ -1,8 +1,8 @@
 ---
-title: Book and golf
+title: Application de réservation de green fee
 publishDate: 2021-10-02 00:00:00
 img: /assets/bng.png
-img_alt: Bookandgolf
+img_alt: Application de réservation de green fee
 description: |
   Application web où j'ai assuré la maintenance et l'optimisation
 tags:

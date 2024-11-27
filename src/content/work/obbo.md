@@ -1,8 +1,8 @@
 ---
-title: OBBO
+title: Solution pour carrossiers
 publishDate: 2022-10-02 00:00:00
 img: /assets/obbo.jpeg
-img_alt: OBBO
+img_alt: Solution pour carrossiers
 description: |
   Création d’un ERP offrant une visibilité plus nette et un contrôle total sur chaque aspect de la carrosserie !
 tags:
@@ -10,7 +10,7 @@ tags:
   - API IRIS
 ---
 
-## OBBO : ERP pour les métiers de la carrosserie
+## ERP pour les métiers de la carrosserie
 
 ### Résumé
 Conception et développement d’un ERP dédié aux professionnels de la carrosserie, avec une interface intuitive et des fonctionnalités adaptées (gestion des rendez-vous, CRM, plannings, lien avec les assurances, etc.). Le système centralise les données et automatise les tâches clés pour simplifier la gestion quotidienne.

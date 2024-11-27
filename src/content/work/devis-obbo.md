@@ -1,10 +1,10 @@
 ---
-title: DOK
+title: Application de Devis carrosserie
 publishDate: 2020-10-02 00:00:00
 img: /assets/devis-obbo.jpeg
-img_alt: DOK
+img_alt: Application de Devis carrosserie
 description: |
-    Conception et création d’une application de génération automatique de devis
+    Conception et création d’une web application de génération automatique de devis
 tags:
 - Laravel
 - FastApi
